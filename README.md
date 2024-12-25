@@ -6,3 +6,5 @@ DB_PORT=3306<br>
 DB_DATABASE=a<br>
 DB_USERNAME=root<br>
 DB_PASSWORD=<br>
+
+To login check database\seeders\DatabaseSeeder.php
